@@ -14,8 +14,6 @@ gathered in Caracas, Venezuela, at the *Hospital Universitario de Caracas*; it c
 * `bnlearn`: learning the graphical structure of Bayesian networks, estimate their parameters and perform some useful inference
 * `gRain`: propagation in graphical independence networks
 * `gRbase`: provides graphical modelling features
-* `Rgraphviz`: provides plotting capabilities for R graph objects
-* `dplyr`: fast and consistent tool for working with dataframes
 
 ## References
 
